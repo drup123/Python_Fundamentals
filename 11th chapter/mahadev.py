@@ -1,0 +1,2 @@
+from krishna import myfunc
+
